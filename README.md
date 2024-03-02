@@ -2,7 +2,7 @@
 <h3 align="center">A Front-end dev and student</h3>
 
 <p>✨ I’m currently working on personal projects to use my knowledge and show my skills, aiming to get my first Front-end job in a Tech Team. <i>pt-br</i> Estou trabalhando em projetos pessoais para aplicar meus conhecimentos e mostrar minhas habilidades, com objetivo de conseguir meu primeiro trabalho de Front-end em uma equipe de tecnologia</p>
-<p>✨ I’m currently studying JavaScript/TypeScript, React.js, HTML, CSS, APIs <i>pt-br</i> Estou estudando JavaScript/TypeScript, React.js, HTML, CSS, APIs </p>
+<p>✨ I’m currently studying JavaScript/TypeScript, React.js, Node.js, HTML, CSS, APIs <i>pt-br</i> Estou estudando JavaScript/TypeScript, React.js, Node.js, HTML, CSS, APIs </p>
 <p>✨ I’m looking to collaborate on web development projects to improve my skills <i>pt-br</i> Estou procurando colaborar em projetos de desenvolvimento web para melhorar minhas habilidades técnicas</p>
 <p> 📫 How to reach me: gabrielli.osc@gmail.com </p>
 
