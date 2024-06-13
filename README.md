@@ -7,7 +7,7 @@
 <p> 📫 How to reach me: gabrielli.osc@gmail.com </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=react,ts,sass,js,html,css,tailwind,styledcomponents,next,angular,materialui,d3,git,github,figma,py,flask,npm,vite,vscode,nodejs,express,cypress,postman,heroku,sqlite,mysql,anaconda,selenium,gulp,r,cpp" />
+<img src="https://skillicons.dev/icons?i=react,ts,sass,js,html,css,tailwind,styledcomponents,next,angular,materialui,d3,git,github,figma,py,flask,npm,vite,vscode,nodejs,express,cypress,postman,heroku,sqlite,mysql,anaconda,selenium,gulp,r,cpp,java" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
