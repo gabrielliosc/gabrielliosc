@@ -19,7 +19,7 @@ Thank you for taking the time to view my GitHub Profile!
 _pt_br_ Obrigada por visitar meu perfil!
 
 <div align="left" width="100%">
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gabrielliosc&langs_count=10&include_orgs=true&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook" alt="gabrielliosc" />  
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gabrielliosc&langs_count=15&include_orgs=true&show_icons=true&locale=en&layout=compact&theme=dracula&hide=jupyter%20notebook" alt="gabrielliosc" />  
   <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielliosc&include_orgs=true&show_icons=true&locale=en&theme=dracula" alt="gabrielliosc" />
 </div>
 
