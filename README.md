@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/gabrielli-oliveira-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielli oliveira" height="30" width="40" /></a>
 </p>
-<p>Visit my portifolio to learn more: https://gabrielliosc.github.io/my-portifolio/ </p> <i>pt-br</i> <p>Para saber mais sobre mim entre no meu portifólio: https://gabrielliosc.github.io/my-portifolio/ </p>
+<p>Visit my portfolio to learn more: https://gabrielliosc.github.io/my-portifolio/ </p> <i>pt-br</i> <p>Para saber mais sobre mim entre no meu portfólio: https://gabrielliosc.github.io/my-portifolio/ </p>
 
 Thank you for taking the time to view my GitHub Profile!
 _pt_br_ Obrigada por visitar meu perfil!
