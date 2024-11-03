@@ -2,17 +2,17 @@
 <h3 align="center">A Front-end dev and student</h3>
 
 <p>✨ I’m currently working on personal projects to use my knowledge and show my skills. <i>pt-br</i> Estou trabalhando em projetos pessoais para aplicar meus conhecimentos e mostrar minhas habilidades.</p>
-<p>👩‍💻 I'm a Front-end Developer at the Niteroi City Hall, customizing WebGIS applications using React, Typescript, HTML, CSS, and Styled-components. I also work on projects with python to automate features. <i>pt-br</i> Trabalho como desenvolvedora Front-end, customizando aplicações GIS web utilizando React, Typescript, HTML, CSS e Styled-components. Também trabalho em projetos com python para automatizar funcionalidades. </p>
-<p>✨ I’m currently studying JavaScript/TypeScript, React.js, Node.js, HTML, CSS, APIs <i>pt-br</i> Estou estudando JavaScript/TypeScript, React.js, Node.js, HTML, CSS, APIs </p>
-<p>✨ I’m looking to collaborate on web development projects to improve my skills <i>pt-br</i> Estou procurando colaborar em projetos de desenvolvimento web para melhorar minhas habilidades técnicas</p>
+<p>👩‍💻 I'm a Front-end Developer at ONErpm, using Angular, Typescript, HTML, CSS, and Bootstrap.<i>pt-br</i> Trabalho como desenvolvedora Front-end na ONErpm, utilizando Angular, Typescript, HTML, CSS, and Bootstrap.</p>
+<p>✨ I’m currently studying Swift, JavaScript/TypeScript, Angular, APIs and Software Architeture <i>pt-br</i> Estou estudando Swift, JavaScript/TypeScript, Angular, APIs e Arquitetura de Software</p>
+<p>✨ I’m looking to collaborate on web and mobile development projects to improve my skills <i>pt-br</i> Estou procurando colaborar em projetos de desenvolvimento web e mobile para melhorar minhas habilidades técnicas</p>
 <p> 📫 How to reach me: gabrielli.osc@gmail.com </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>Main: <i>pt-br</i> Principais:</p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,ts,js,py,styledcomponents,sass,html,css,tailwind,materialui,d3,npm,vite,git,github,figma,canva,vscode,nodejs,miro" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,ts,js,py,styledcomponents,sass,html,css,tailwind,materialui,d3,npm,vite,git,github,figma,canva,vscode,nodejs,miro" />
 
 <p>Studies: <i>pt-br</i> Estudos:</p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,next,flask,swift,pbi,numpy,anaconda,pandas,sklearn,matplotlib,postgres,express,cypress,swagger,bootstrap,insomnia,postman,heroku,zed,sqlite,mysql,hadoop,jest,docker,java,selenium,gulp,r,cpp" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swift,xcode,java,androidstudio,next,flask,pbi,numpy,anaconda,pandas,sklearn,matplotlib,postgres,express,cypress,swagger,bootstrap,insomnia,postman,heroku,zed,sqlite,mysql,hadoop,jest,docker,selenium,gulp,r,cpp" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
