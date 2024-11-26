@@ -12,7 +12,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,ts,js,py,styledcomponents,sass,html,css,tailwind,bootstrap,materialui,d3,npm,vite,git,github,figma,canva,vscode,nodejs,miro" />
 
 <p>Studies: <i>pt-br</i> Estudos:</p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=swift,xcode,java,androidstudio,next,flask,pbi,numpy,anaconda,pandas,sklearn,matplotlib,postgres,express,cypress,swagger,insomnia,postman,heroku,zed,sqlite,mysql,hadoop,jest,docker,selenium,gulp,r,cpp" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swift,xcode,storybook,java,androidstudio,next,flask,pbi,numpy,anaconda,pandas,sklearn,matplotlib,postgres,express,cypress,swagger,insomnia,postman,heroku,zed,sqlite,mysql,hadoop,jest,docker,selenium,gulp,r,cpp" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
